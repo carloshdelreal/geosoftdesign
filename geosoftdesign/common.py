@@ -7,5 +7,7 @@ def hello_world():
     print("Hello World!")
 
 def rndom_number():
+    """Prints a random number
+    """
     import random
     return random.random()
